@@ -1,0 +1,12 @@
+{
+  "HomePage": {
+    "title": "Hello world!"
+  },
+  "Navbar": {
+    "language": "Language",
+    "pickLanguage": "Pick a language",
+    "english": "English",
+    "norwegian": "Norwegian",
+    "german": "German"
+  }
+}

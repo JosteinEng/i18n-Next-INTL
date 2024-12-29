@@ -1,0 +1,12 @@
+{
+  "HomePage": {
+    "title": "Hallo Verden!"
+  },
+  "Navbar": {
+    "language": "Språk",
+    "pickLanguage": "Velg et språk",
+    "english": "Engelsk",
+    "norwegian": "Norsk",
+    "german": "Tysk"
+  }
+}
