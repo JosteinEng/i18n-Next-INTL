@@ -1,3 +1,3 @@
-#i18n - Next-intl
+# i18n - Next-intl
 
-## Nextjs, tailwindcss, shadcn, typescript boilerplate med localization
+### Nextjs, tailwindcss, shadcn, typescript boilerplate med localization
