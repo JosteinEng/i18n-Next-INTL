@@ -7,8 +7,8 @@ import {routing} from '@/i18n/routing';
 import {Navbar} from '@/components/navbar';
 
 export const metadata: Metadata = {
-  title: "Discprof",
-  description: "Vi tilbyr den beste discgolf opplevelsen i Norge",
+  title: "i18n - Next-intl",
+  description: "i18n - Next-intl",
 };
 
 export default async function LocaleLayout({
