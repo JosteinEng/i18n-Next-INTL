@@ -19,7 +19,7 @@ const Navbar = () => {
   return (
     <main className="bg-primary text-accent">
       <div className="flex justify-between gap-8 container mx-auto px-4 py-8 ">
-        <h1 className="font-bold text-2xl">DISCPROF.NO</h1>
+        <h1 className="font-bold text-2xl">i18n - Next-intl</h1>
         <div className="justify-end">
           <DropdownMenu>
             <DropdownMenuTrigger>{t("language")}</DropdownMenuTrigger>
